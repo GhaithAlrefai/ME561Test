@@ -2,6 +2,8 @@ const int Bpin = 6;
 const int Rpin=7;
 const int button1= 1;
 const button2= 2;
+const button3= 5;
+int temp;
 
 void setup() {
   pinMode(Bpin,output);
