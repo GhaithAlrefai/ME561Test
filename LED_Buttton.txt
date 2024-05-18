@@ -1,0 +1,13 @@
+const int Bpin = 6;
+const int Rpin=7;
+const int button1= 1;
+const button2= 2;
+
+void setup() {
+  pinMode(Bpin,output);
+  pinMode(Rpin, output);
+  pinMode(button1, iput);
+  pinMode(button2, input);
+  
+
+}
